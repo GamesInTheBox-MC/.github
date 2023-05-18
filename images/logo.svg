@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 500 500"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:bx="https://boxy-svg.com">
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.654"
+     inkscape:cx="250.60459"
+     inkscape:cy="250.90689"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <defs
+     id="defs2">
+    <bx:grid
+       x="0"
+       y="0"
+       width="18.514"
+       height="18.514" />
+  </defs>
+  <path
+     d="M 249.939 37.028 L 462.85 111.084 L 462.85 388.794 L 249.939 462.85 L 37.028 388.794 L 37.028 111.084 L 249.939 37.028 Z"
+     style="stroke:#552200;fill:#ffcc00;stroke-width:20px"
+     id="path4" />
+  <path
+     style="stroke:#552200;stroke-width:20px;fill:#ffcc00"
+     d="M 37.028 111.084 L 249.308 185.14 L 462.85 111.084"
+     id="path6" />
+  <path
+     style="fill:rgb(216, 216, 216);stroke:#552200;stroke-width:20px"
+     d="M 237.759 443.991 L 237.901 166.281"
+     transform="matrix(-1, 0, 0, -1, 487.711977, 629.131004)"
+     id="path8" />
+</svg>
